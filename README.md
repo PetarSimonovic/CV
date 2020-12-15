@@ -16,11 +16,11 @@ _Research Editor_
 
 - Berenberg is Germany’s oldest private bank. Its research department analyses more than 850 companies and publishes reports on a wide range of sectors, including technology hardware, software and IT services, media, video games and healthcare.
 - **Key responsibilities and achievements**
-- Edit equity research and rewrite material produced by second-language writers. 
-- Manage multiple projects in a high-pressure environment: deadlines vary from 15 minutes for publication of “flash notes” to several weeks for larger projects that can span multiple teams.
-- Ensure absolute accuracy of regulated materials in line with compliance rules.
-- Liaise with analysts, editors, compliance officers, data personnel and production staff to manage daily workflow.
-- Promoted to corporate ranks of Associate (2015), Senior Associate (2016) and Vice President (2018).
+-- Edit equity research and rewrite material produced by second-language writers.
+-- Manage multiple projects in a high-pressure environment: deadlines vary from 15 minutes for publication of “flash notes” to several weeks for larger projects that can span multiple teams.
+-- Ensure absolute accuracy of regulated materials in line with compliance rules.
+-- Liaise with analysts, editors, compliance officers, data personnel and production staff to manage daily workflow.
+-- Promoted to corporate ranks of Associate (2015), Senior Associate (2016) and Vice President (2018).
 
 
 **Company Name** (start-date to end-date)  
