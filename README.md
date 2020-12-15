@@ -50,6 +50,16 @@ _Production Sub-Editor_
   - Edit photos and write captions, headlines and stand firsts.
   - Ensure copy is accurate and published to deadline.
 
+**Pendragon** (December 2001 to October 2004)
+_Editor_  
+
+- Pendragon is a leading electronic publisher in a specialist legal sector.
+- **Key responsibilities and achievements**
+  - Create and update technical, legal and advisory materials for an electronic reference publication using SGML markup.
+  - Sub-edit legal, regulatory and reference materials.
+  - Write articles for news service.
+  - Project manage document collections.
+
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
