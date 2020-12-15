@@ -14,19 +14,21 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 **Berenberg** (December 2013 to December 2020)  
 _Research Editor_
 
-- Berenberg is Germany’s oldest private bank. Its research department analyses more than 850 companies and publishes reports on a wide range of sectors, including technology hardware, software and IT services, media, video games and healthcare.
+- Berenberg is Germany’s oldest private bank. Its research department has more than 130 analysts covering over 850 companies across a wide range of sectors, including technology hardware, software and IT services, media, video games and healthcare.
 - **Key responsibilities and achievements**
   - Edit equity research and rewrite material produced by second-language writers.
-  - Manage multiple projects in a high-pressure environment: deadlines vary from 15 minutes for publication of “flash notes” to several weeks for larger projects that can span multiple teams.
+  - Manage multiple projects in a high-pressure environment: deadlines vary from 15 minutes for publication of “flash notes” to several weeks for larger research reports that can span multiple teams.
   - Ensure absolute accuracy of regulated materials in line with compliance rules.
-  - Liaise with analysts, editors, compliance officers, data personnel and production staff to manage daily workflow.
+  - Liaise with analysts, editors, compliance officers, data personnel and designers to manage daily workflow.
   - Promoted to corporate ranks of Associate (2015), Senior Associate (2016) and Vice President (2018).
 
 
-**Company Name** (start-date to end-date)  
+**Freelance Writer and Sub-Editor** (November 2007 to December 2013)  
 _Your job title_
 
-- Any experience relevent to software development
+- **Copywriting:** Creation of editorial copy in line with brand, tone of voice and SEO requirements. Write headlines and sells. Clients: Winkreative, Frommer’s Unlimited, Newtrade, Ten Lifestyle.
+- **News and features:** Write articles on restaurants, arts, entertainment, travel, retail, the environment, home and family. Clients: Newtrade Publishing (Retail Express, Retail Newsagent), World News Media (European CEO), Ten Lifestyle
+- **Sub-editing:** Sub-edit, proofread and lay out copy for print and online. Write headlines, stand firsts and sells. Clients: Thomson Reuters, Pageant Media, HedgeFund Intelligence, Newtrade Publishing, Seven, Cedar Communications, Bladonmore, Dennis Publishing, Green Pea Publishing (Food and Travel), NHS Choices
 
 ## Skills
 
