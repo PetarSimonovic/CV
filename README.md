@@ -11,10 +11,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Berenberg** (December 2013 to December 2020)  
+_Research Editor_
 
-- Any experience relevent to software development
+- Berenberg is Germany’s oldest private bank. Its research department analyses more than 850 companies and publishes reports on a wide range of sectors, including technology hardware, software and IT services, media, video games and healthcare. 
+
 
 **Company Name** (start-date to end-date)  
 _Your job title_
