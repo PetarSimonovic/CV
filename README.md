@@ -14,11 +14,11 @@ Coder | Writer | Editor
 * https://github.com/PetarSimonovic/archipelago
 * https://warm-escarpment-84694.herokuapp.com
 
-**Poke**:A Facebook-inspired social messaging platform, where users can post their thoughts, and like and comment on posts. Developed in Ruby on Rails as part of a Makers Academy group project with continuous integration/deployment using CircleCI and Heroku.
+**Poke**: A Facebook-inspired social messaging platform, where users can post their thoughts, and like and comment on posts. Developed in Ruby on Rails as part of a Makers Academy group project with continuous integration/deployment using CircleCI and Heroku.
 * https://github.com/PetarSimonovic/acebook-poke
 * https://gentle-beach-18739.herokuapp.com/users/sign_in
 
-**Vanilla**: A single-page web app with simple-animation that displays recipes for ice cream. Written in JavaScript and HTML, with a self-developed testing framework. 
+**Vanilla**: A single-page web app with simple animation that displays recipes for ice cream. Written in JavaScript and HTML, with a self-developed testing framework. 
 * https://github.com/PetarSimonovic/vanilla
 
 
