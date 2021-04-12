@@ -5,10 +5,10 @@ Coder | Writer | Editor
 ## Projects
 
 
-| Project | Description | Link | Image |
-| --- | --- | ---|---|---|
-| Sloth | A mobile pedometer game to make walking fun: players that beat their daily step count receive a new sloth with its own personality; players that miss the step count lose a sloth. Negative sloths will attempt to guilt trip the player into walking, while positive sloths will offer encouragement. Neutral sloths will dispense sloth-related facts. A Makers Academy group project developed using React Native and Expo. Tested in Jest. |https://github.com/PetarSimonovic/Guilt_Trip|IMAGE|
-| Log-Line | An iOS app that generates story synopses that can be used as prompts for writers of fiction. Initially written as a web app in JavaScript, then redeveloped in Swift and Xcode with additional functionality. |https://github.com/PetarSimonovic/Log-Line-Swift|Image|
+| Project | Description | 
+| --- | --- | 
+| Sloth | A mobile pedometer game to make walking fun: players that beat their daily step count receive a new sloth with its own personality; players that miss the step count lose a sloth. Negative sloths will attempt to guilt trip the player into walking, while positive sloths will offer encouragement. Neutral sloths will dispense sloth-related facts. A Makers Academy group project developed using React Native and Expo. Tested in Jest. https://github.com/PetarSimonovic/Guilt_Trip|
+| Log-Line | An iOS app that generates story synopses that can be used as prompts for writers of fiction. Initially written as a web app in JavaScript, then redeveloped in Swift and Xcode with additional functionality. https://github.com/PetarSimonovic/Log-Line-Swift|
 
 
 **Sloth**: A mobile pedometer game to make walking fun: players that beat their daily step count receive a new sloth with its own personality; players that miss the step count lose a sloth. Negative sloths will attempt to guilt trip the player into walking, while positive sloths will offer encouragement. Neutral sloths will dispense sloth-related facts. A Makers Academy group project developed using React Native and Expo. Tested in Jest.
