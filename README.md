@@ -2,7 +2,7 @@
 
 **Coder | Writer | Editor**
 
-Writer and editor with 20 years' experience of working with creative agencies, B2B publications, consumer magazines, research departments and government institutiions. 
+Writer and editor with 20 years' experience of working with creative agencies, B2B publications, consumer magazines, research departments and government institutions. 
 
 Recent graduate of Makers Academy coding bootcamp, where test-driven development, object-oriented programming and Agile practices are complemented by an emotional intelligence curriculum that emphasises empathy, adaptability and a growth mindset.   
 
