@@ -1,6 +1,10 @@
 ## Petar Simonovic
 
-Coder | Writer | Editor
+**Coder | Writer | Editor**
+
+Writer and editor with 20 years' experience of working with creative agencies, B2B publications, consumer magazines, research departments and government institutiions. 
+
+Recent graduate of Makers Academy coding bootcamp, where test-driven development, object-oriented programming and Agile practices are complemented by an emotional intelligence curriculum that emphasises empathy, adaptability and a growth mindset.   
 
 ## Projects
 
@@ -15,6 +19,8 @@ Coder | Writer | Editor
 |**Bunker** is an Airbnb clone that was developed as a Makers Academy group project. Users can sign up, log in, manage properties and approve or deny booking requests The app was created using Sinatra, Ruby and PostgreSQL, and tested with Rspec and Capybara.<br/>https://github.com/PetarSimonovic/bunker_makersbnb  |![image](https://user-images.githubusercontent.com/69108995/114383254-45dd0380-9b85-11eb-807f-2e04e6710d78.png)| 
 |**Super Rock-Paper-Scissors Turbo Alpha** is a single-player rock paper scissors game that pays homage to the style and naming conventions of Capcom's Street Fighter franchise. It was developed with Sinatra and Ruby, with testing in Rspec and Capybara.<br/>https://github.com/PetarSimonovic/rps-challenge|![image](https://user-images.githubusercontent.com/69108995/114380908-7b342200-9b82-11eb-90ed-361a47455dcd.png)| 
 
+
+## Skills
 
 
 ## Experience
@@ -33,7 +39,7 @@ Berenberg is Germany’s oldest private bank. Its research department has more t
 
 **Freelance Writer and Sub-Editor** (November 2007 to December 2013)  
 
-I worked as a freelance writer and editor for a wide range of websites, publications and projects. My clients included consumer magazines, B2B titles and creative agencies. Work had to be completed in line with tight deadlines and client briefs. 
+I worked as a freelance writer and editor for a wide range of websites, publications and projects. My clients included consumer magazines, B2B titles and creative agencies. 
 
 - **Copywriting:** Creation of editorial copy in line with brand, tone of voice and SEO requirements. Write headlines and sells. Clients: Winkreative, Frommer’s Unlimited, Newtrade, Ten Lifestyle.
 - **News and features:** Write articles on restaurants, arts, entertainment, travel, retail, the environment, home and family. Clients: Newtrade Publishing (Retail Express, Retail Newsagent), World News Media (European CEO), Ten Lifestyle
