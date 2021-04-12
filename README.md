@@ -5,8 +5,8 @@ Coder | Writer | Editor
 ## Projects
 
 
-| Command | Description |
-| --- | --- |
+| Project | Description | Link | Image |
+| --- | --- | ---|---|---|
 | Sloth | A mobile pedometer game to make walking fun: players that beat their daily step count receive a new sloth with its own personality; players that miss the step count lose a sloth. Negative sloths will attempt to guilt trip the player into walking, while positive sloths will offer encouragement. Neutral sloths will dispense sloth-related facts. A Makers Academy group project developed using React Native and Expo. Tested in Jest. |
 | git diff | Show file differences that haven't been staged |
 
