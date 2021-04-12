@@ -22,6 +22,7 @@ Graduate of Makers Academy coding bootcamp, a 16-week course that focuses on tes
 
 ## Skills
 
+Adaptability | Growth Mindset | Teamwork | Self-starter | Detail-Oriented | Self-Led Learner | Creativity | Problem Solving 
 
 ## Experience
 
