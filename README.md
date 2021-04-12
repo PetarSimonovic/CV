@@ -9,24 +9,9 @@ Coder | Writer | Editor
 | --- | --- | 
 | Sloth | A mobile pedometer game to make walking fun: players that beat their daily step count receive a new sloth with its own personality; players that miss the step count lose a sloth. Negative sloths will attempt to guilt trip the player into walking, while positive sloths will offer encouragement. Neutral sloths will dispense sloth-related facts. A Makers Academy group project developed using React Native and Expo. Tested in Jest. https://github.com/PetarSimonovic/Guilt_Trip|
 | Log-Line | An iOS app that generates story synopses that can be used as prompts for writers of fiction. Initially written as a web app in JavaScript, then redeveloped in Swift and Xcode with additional functionality. https://github.com/PetarSimonovic/Log-Line-Swift|
-
-
-**Sloth**: A mobile pedometer game to make walking fun: players that beat their daily step count receive a new sloth with its own personality; players that miss the step count lose a sloth. Negative sloths will attempt to guilt trip the player into walking, while positive sloths will offer encouragement. Neutral sloths will dispense sloth-related facts. A Makers Academy group project developed using React Native and Expo. Tested in Jest.
-https://github.com/PetarSimonovic/Guilt_Trip
-
-**Log-Line**: An iOS app that generates story synopses that can be used as prompts for writers of fiction. Initially written as a web app in JavaScript, then redeveloped in Swift and Xcode with additional functionality. 
-* https://github.com/PetarSimonovic/Log-Line-Swift
-
-**Archipelago**: A 3D landscape generator that creates mountainous islands. Developed in JavaScript with Three.js. Deployed to Heroku. 
-* https://github.com/PetarSimonovic/archipelago
-* https://warm-escarpment-84694.herokuapp.com
-
-**Poke**: A Facebook-inspired social messaging platform, where users can post their thoughts, and like and comment on posts. Developed in Ruby on Rails as part of a Makers Academy group project with continuous integration/deployment using CircleCI and Heroku.
-* https://github.com/PetarSimonovic/acebook-poke
-* https://gentle-beach-18739.herokuapp.com/users/sign_in
-
-**Vanilla**: A single-page web app with simple animation that displays recipes for ice cream. Written in JavaScript and HTML, with a self-developed testing framework. 
-* https://github.com/PetarSimonovic/vanilla
+|Archipelago| A 3D landscape generator that creates mountainous islands. Developed in JavaScript with Three.js. Deployed to Heroku. https://github.com/PetarSimonovic/archipelago https://warm-escarpment-84694.herokuapp.com|
+|Poke| A Facebook-inspired social messaging platform, where users can post their thoughts, and like and comment on posts. Developed in Ruby on Rails as part of a Makers Academy group project with continuous integration/deployment using CircleCI and Heroku. https://github.com/PetarSimonovic/acebook-poke https://gentle-beach-18739.herokuapp.com/users/sign_in|
+|Vanilla| A single-page web app with simple animation that displays recipes for ice cream. Written in JavaScript and HTML, with a self-developed testing framework.  https://github.com/PetarSimonovic/vanilla|
 
 
 
