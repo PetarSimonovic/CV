@@ -1,5 +1,7 @@
 ## Petar Simonovic
 
+(work in progress!)
+
 **Coder | Writer | Editor**
 
 Writer and editor with 20 years' experience of working with creative agencies, B2B publications, consumer magazines, research departments and government institutions. 
