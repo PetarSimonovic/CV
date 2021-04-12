@@ -5,7 +5,7 @@ Coder | Writer | Editor
 ## Projects
 
 
-| Description | |
+
 | --- | ---|
 | **Sloth** is a mobile pedometer game designed to make walking fun: if a player beats their daily step count they receive a new sloth with a distinct personality; if they miss the step count they lose a sloth. Negative sloths will attempt to guilt trip the player into walking, while positive sloths will offer encouragement. Neutral sloths will dispense sloth-related facts. The app was created as a Makers Academy group project and developed using React Native and Expo. It was tested in Jest. <br/>https://github.com/PetarSimonovic/Guilt_Trip| ![image](https://user-images.githubusercontent.com/69108995/114376935-05c65280-9b7e-11eb-8808-ea5a386f7af6.png)|
 | **Log-Line** is an iOS app that generates story synopses which can be used as prompts for writers of fiction. It was initially written as a web app in JavaScript, then redeveloped in Swift and Xcode with additional functionality: users can tap on words to "lock" them into the story synopsis, allowing writers to fine-tune the narrative. The app will also periodically present users with a synopsis of a classic film or novel and ask them to guess the title. Log-Line was developed as a solo project. <br/>https://github.com/PetarSimonovic/Log-Line-Swift |![image](https://user-images.githubusercontent.com/69108995/114375060-34dbc480-9b7c-11eb-90fe-cf64fb60b524.png)|
