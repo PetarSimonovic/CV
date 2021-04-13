@@ -42,7 +42,7 @@ Berenberg is Germany’s oldest private bank. Its research department has more t
 
 **Freelance Writer and Sub-Editor** (November 2007 to December 2013)  
 
-Feelance writer and editor for a wide range of websites, publications and projects. Clients included consumer magazines, B2B titles and creative agencies.  
+Freelance writer and editor for a wide range of websites, publications and projects. Clients included consumer magazines, B2B titles and creative agencies.  
 
 - **Copywriting:** Creation of editorial copy in line with brand, tone of voice and SEO requirements. Write headlines and sells. Clients: Winkreative, Frommer’s Unlimited, Newtrade, Ten Lifestyle.
 - **News and features:** Write articles on restaurants, arts, entertainment, travel, retail, the environment, home and family. Clients: Newtrade Publishing (Retail Express, Retail Newsagent), World News Media (European CEO), Ten Lifestyle
@@ -84,5 +84,5 @@ Technologies used during the course included: Ruby, Ruby on Rails, Sinatra, Java
 
 #### Cardiff University (September 1997 to May 2000)
 
-- BA English Literature, with specialisations in creative writing, Shakespeare's tradgedies, long-form research essays, 20th-century fiction
+- BA English Literature, with specialisations in creative writing, Shakespeare's tragedies, long-form research essays, 20th-century fiction
 - First-class honours
