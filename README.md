@@ -42,7 +42,7 @@ Berenberg is Germany’s oldest private bank. Its research department has more t
 
 **Freelance Writer and Sub-Editor** (November 2007 to December 2013)  
 
-I worked as a freelance writer and editor for a wide range of websites, publications and projects. My clients included consumer magazines, B2B titles and creative agencies. 
+Feelance writer and editor for a wide range of websites, publications and projects. Clients included consumer magazines, B2B titles and creative agencies.  
 
 - **Copywriting:** Creation of editorial copy in line with brand, tone of voice and SEO requirements. Write headlines and sells. Clients: Winkreative, Frommer’s Unlimited, Newtrade, Ten Lifestyle.
 - **News and features:** Write articles on restaurants, arts, entertainment, travel, retail, the environment, home and family. Clients: Newtrade Publishing (Retail Express, Retail Newsagent), World News Media (European CEO), Ten Lifestyle
