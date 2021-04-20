@@ -60,7 +60,6 @@ Complinet was a news and regulatory information service for compliance professio
   - Mark up copy, images and tables in HTML for online publication
   - Design, layout and edit newsletters (print and PDF)
   - Edit photos and write captions, headlines and stand firsts
-  - Ensure copy is accurate and published to deadline
 
 **Pendragon** (December 2001 to October 2004)
 _Editor_  
