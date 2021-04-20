@@ -1,7 +1,5 @@
 ## Petar Simonovic
 
-(work in progress!)
-
 **Coder | Writer | Editor**
 
 Writer and editor with 20 years' experience of working with creative agencies, B2B publications, consumer magazines, research departments and government institutions. 
@@ -18,7 +16,7 @@ Graduate of Makers Academy coding bootcamp, a 16-week course that focuses on tes
 |**Archipelago** is a 3D landscape generator that creates mountainous islands over which users can fly. It was developed as a solo project in JavaScript with Three.js, and deployed to Heroku.<br/> https://github.com/PetarSimonovic/archipelago <br/> https://warm-escarpment-84694.herokuapp.com|![image](https://user-images.githubusercontent.com/69108995/114375961-1c1fde80-9b7d-11eb-91d5-12517e490119.png)  |
 |**Poke** is a Facebook-inspired social messaging platform on which users can post their thoughts, and like and comment on posts. It was built in Ruby on Rails as part of a Makers Academy group project. Our team adopted an Agile development process and worked in two-day sprints. We alternated roles so that each team member took on the position of leader, scrum master, scribe, challenger and technician. Poke was developed with continuous integration/deployment using CircleCI and Heroku.<br/> https://github.com/PetarSimonovic/acebook-poke  <br /> https://gentle-beach-18739.herokuapp.com/users/sign_in|![image](https://user-images.githubusercontent.com/69108995/114376682-c5ff6b00-9b7d-11eb-97dc-80ee6852be33.png)|
 |**Vanilla** is a single-page web app with simple animation that displays recipes for ice cream. It was written in JavaScript and HTML. The app is a solo project but incorporates a testing framework that was developed as part of a Makers Academy group challenge. <br/>https://github.com/PetarSimonovic/vanilla| ![image](https://user-images.githubusercontent.com/69108995/114377264-5c339100-9b7e-11eb-916d-4beac147320f.png)|
-|**Bunker** is an Airbnb clone that was developed as a Makers Academy group project. Users can sign up, log in, manage properties and approve or deny booking requests The app was created using Sinatra, Ruby and PostgreSQL, and tested with Rspec and Capybara.<br/>https://github.com/PetarSimonovic/bunker_makersbnb  |![image](https://user-images.githubusercontent.com/69108995/114383254-45dd0380-9b85-11eb-807f-2e04e6710d78.png)| 
+|**Bunker** is an Airbnb clone that was developed as a Makers Academy group project. Users can sign up, log in, manage properties and approve or deny booking requests. The app was created using Sinatra, Ruby and PostgreSQL, and tested with Rspec and Capybara.<br/>https://github.com/PetarSimonovic/bunker_makersbnb  |![image](https://user-images.githubusercontent.com/69108995/114383254-45dd0380-9b85-11eb-807f-2e04e6710d78.png)| 
 |**Super Rock-Paper-Scissors Turbo Alpha** is a single-player rock paper scissors game that pays homage to the style and naming conventions of Capcom's Street Fighter franchise. It was developed with Sinatra and Ruby, with testing in Rspec and Capybara.<br/>https://github.com/PetarSimonovic/rps-challenge|![image](https://user-images.githubusercontent.com/69108995/114380908-7b342200-9b82-11eb-90ed-361a47455dcd.png)| 
 
 
