@@ -75,7 +75,7 @@ Pendragon is a leading electronic publisher in a specialist legal sector.
 
 #### Makers Academy (January 2021 to March 2021)
 
-Makers Academy is an immersive, 12-week coding bootcamp. It focuses on Ruby and JavaScript, but its "learn how to learn" approach aims to give students the ability to teach themselves new languages and adapt to unfamiliar frameworks. The course also trains students in Agile practices, including pair programming and test-driven development, and gives them the opportunity to work on three group-based engineering projects. 
+Makers Academy is an immersive, 16-week coding bootcamp. It focuses on Ruby and JavaScript, but its "learn how to learn" approach aims to give students the ability to teach themselves new languages and adapt to unfamiliar frameworks. The course also trains students in Agile practices, including pair programming and test-driven development, and gives them the opportunity to work on three group-based engineering projects. 
 
 Technologies used during the course included: Ruby, Ruby on Rails, Sinatra, JavaScript, React Native, Jasmine, Rspec, Jest, Capybara, CircleCI, Heroku, PostgreSQL and GitHub,  
 
