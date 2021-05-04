@@ -22,7 +22,12 @@ Graduate of Makers Academy coding bootcamp, a 16-week course that focuses on tes
 
 ## Skills
 
-Adaptability | Growth Mindset | Teamwork | Self Starter | Detail-Oriented | Self-Led Learner | Project Management | Creativity | Problem Solving | Time Management 
+**Growth Mindset Collaborative**: Adaptable self-starter with aptitude for learning developed through years as a freelancer and experience at Makers Academy
+
+**Collaborative**: 20 years' experience of working in close-knit teams within high- pressure environments | Strong communicator able to understand problems and articulate solutions
+
+**Quality Focused**: Detail-oriented and creative problem solver with years of experience in producing high-quality work for clients
+
 
 ## Experience
 
