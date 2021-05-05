@@ -19,7 +19,7 @@ Graduate of Makers Academy coding bootcamp, a 16-week course that focuses on tes
 |**Bunker** is an Airbnb clone that was developed as a Makers Academy group project. Users can sign up, log in, manage properties and approve or deny booking requests. The app was created using Sinatra, Ruby and PostgreSQL, and tested with Rspec and Capybara.<br/>https://github.com/PetarSimonovic/bunker_makersbnb  |![image](https://user-images.githubusercontent.com/69108995/114383254-45dd0380-9b85-11eb-807f-2e04e6710d78.png)| 
 |**Thread** is an endless-runner game in development for iOS, built in Swift, Xcode and SpriteKit.<br/>https://github.com/PetarSimonovic/thread |![image](https://user-images.githubusercontent.com/69108995/117116129-e0e08c00-ad85-11eb-9933-745961b2f995.png)|
  
-|**Super Rock-Paper-Scissors Turbo Alpha** is a single-player rock paper scissors game that pays homage to the style and naming conventions of Capcom's Street Fighter franchise. It was developed with Sinatra and Ruby, with testing in Rspec and Capybara.<br/>https://github.com/PetarSimonovic/rps-challenge|![image](https://user-images.githubusercontent.com/69108995/114380908-7b342200-9b82-11eb-90ed-361a47455dcd.png)| ![image](https://user-images.githubusercontent.com/69108995/117116063-cb6b6200-ad85-11eb-9ab9-44da8d646287.png)|
+|**Super Rock-Paper-Scissors Turbo Alpha** is a single-player rock paper scissors game that pays homage to the style and naming conventions of Capcom's Street Fighter franchise. It was developed with Sinatra and Ruby, with testing in Rspec and Capybara.<br/>https://github.com/PetarSimonovic/rps-challenge| ![image](https://user-images.githubusercontent.com/69108995/117116063-cb6b6200-ad85-11eb-9ab9-44da8d646287.png)|
 
 
 ## Skills
